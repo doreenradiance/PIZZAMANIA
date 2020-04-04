@@ -1,0 +1,15 @@
+.row{
+	background-color: coral;
+	border: 2px dashed;
+	/*height: 10vh;*/
+}
+
+.column {
+	padding: 15px 0px;
+	/*justify-content: center;*/
+}
+
+.column p {
+	text-align: center;
+	/*margin: 12px 0px;*/
+}
